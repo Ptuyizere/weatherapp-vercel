@@ -1,4 +1,4 @@
-# WeatherApp (CLI + Web + Docker Support)
+# WeatherApp (Web + Docker Support)
 
 WeatherApp is a simple Python application that fetches and displays current weather information using the [OpenWeatherMap API](https://openweathermap.org/api). You can run it locally or in a Docker container.
 
